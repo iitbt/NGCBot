@@ -7,7 +7,7 @@ NGCBot V2.1
 
 <h4 align="center">
 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询，
-🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，🌱自动群发，👯Ai回复，⚡Ai画图，😄自定义程度丰富，小白也可轻松上手！
+🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，🌱自动群发，👯Ai回复，⚡Ai画图，😄自定义程度丰富，小白也可轻松上手！
 </h4>
 <div style="text-align: center">
     <a href="http://ngc660.cn">
@@ -33,7 +33,7 @@ NGCBot V2.1
 
 **💞特别感谢CKCSec安全研究院的赞助支持以及各大群友的支持， 你们的支持就是我的动力😎**
 
-#### 注意⚠️注意⚠️：此项目完全开源，如果你是给钱了才用上本项目的，请注意，你就是那个傻逼
+#### 注意⚠️注意⚠️：此项目完全开源，如果你是给钱了才用上本项目的，请注意不要被坑骗
 
 #### 作者：云山/eXM
 
@@ -100,8 +100,8 @@ NGCBot V2.1
 │  ├─aiPicCacheFolder										# Ai生图缓存文件夹
 │  ├─FishCacheFolder										# 摸鱼日记缓存文件夹
 │  ├─gaodeCacheFolder										# 高德地图缓存文件夹
-│  ├─picCacheFolder											# 美女图片缓存文件夹
-│  ├─videoCacheFolder										# 美女视频缓存文件夹
+│  ├─picCacheFolder											# 图片缓存文件夹
+│  ├─videoCacheFolder										# 视频缓存文件夹
 ├─logs														# wcf日志文件夹
 │      wcf.txt												# wcf日志
 ├─NGCBot.assets												# README静态资源文件
@@ -309,8 +309,8 @@ meme download
 
 #### 4.2.3、娱乐功能
 
-1. 美女图片
-2. 美女视频
+1. 图片
+2. 视频
 3. KFC文案
 4. 舔狗日记
 5. 早报
@@ -463,3 +463,6 @@ https://github.com/lich0821/WeChatFerry
 - CKCSec安全研究院
 - 渊龙Sec安全团队
 
+## 十、感谢国产开源社区 GitCode
+
+https://gitcode.com/ngc660sec/NGCBot/overview
